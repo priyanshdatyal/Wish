@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="logoofcmp">
+        <item name="cornerSize">15%</item>
+    </style>
+
+    <style name="onerad">
+        <item name="cornerSizeTopRight">50dp</item>
+    </style>
+</resources>

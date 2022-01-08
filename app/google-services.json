@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "400037176601",
+    "firebase_url": "https://wish-df567-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wish-df567",
+    "storage_bucket": "wish-df567.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400037176601:android:a3739ccda340da9e10d188",
+        "android_client_info": {
+          "package_name": "com.soultalkproduction.wish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400037176601-kjf71ri7vnf2v6d0vu05nt7buqprhm86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfU5i8aX_PpaYv4P1IzBzq7BISJo7RuOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400037176601-kjf71ri7vnf2v6d0vu05nt7buqprhm86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
